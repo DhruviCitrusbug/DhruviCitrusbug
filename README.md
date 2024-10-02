@@ -10,12 +10,12 @@ Welcome to my GitHub profile! I'm *Dhruvi Dhapre*, a dedicated AI/ML engineer an
 
 ## 💻 My Tech Stack
 
-- Machine Learning: *Scikit-Learn*, *TensorFlow*, *PyTorch*
-- Python Development: *Python 3.x*, *Django*, *NumPy*, *Pandas*
-- Deep Learning: *Neural Networks*, *CNN*, *RNN*
-- Data Science: *Data Analysis*, *Data Visualization*
-- Databases: *MySQL*, *PostgreSQL*, *MongoDB*
-- Version Control: *Git*
+- Machine Learning: **Scikit-Learn**, **TensorFlow**, **PyTorch**
+- Python Development: **Python 3.x**, **Django**, **NumPy**, **Pandas**
+- Deep Learning: **Neural Networks**, **CNN**, **RNN**
+- Data Science: **Data Analysis**, **Data Visualization**
+- Databases: **MySQL**, **PostgreSQL**, **MongoDB**
+- Version Control: **Git**
 
 ## 🌱 Learning & Exploring
 
@@ -44,6 +44,6 @@ I'm always eager to connect with fellow developers, tech enthusiasts, and like-m
 
 ## ⚡ Fun Fact
 
-Beyond the realm of coding, I enjoy exploring new cuisines and experimenting with cooking recipes. I believe in the fusion of technology and creativity!
+When I'm not delving into the world of AI and coding, I enjoy outdoor photography and hiking. Exploring nature and capturing its beauty is my way of finding inspiration and balance in life. 📸🏞️
 
-Thanks for dropping by, and let's collaborate to build innovative solutions and push the boundaries of technology together! Let's connect, learn, and create amazing things!
+Thanks for visiting my profile, and let's continue to shape the future with AI and data, one algorithm at a time!
